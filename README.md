@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 - Python
-- C++
+- java
 - Git & GitHub
 - Pandas, NumPy, Matplotlib
 - Scikit-learn (Learning)
@@ -25,12 +25,12 @@
 ---
 
 ## 📌 Projects
-- 📊 Student Performance Predictor (ML Project)
+- Retail Billing Machine
 - 🧮 Python Calculator
-- 🌐 Personal Portfolio Website (Coming Soon)
+- Hotel Booking
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (Add link)
-- Email: (Professional email)
+- LinkedIn: (https://www.linkedin.com/in/harshpreetkaur1012/)
+- Email: (harshpreetkaur1012@gmail.com)
