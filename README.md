@@ -3,11 +3,11 @@
 
 # Hi 👋 I'm Harshpreet Kaur
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Python+Developer;Machine+Learning+%26+AI+Enthusiast;Open+Source+Contributor;Building+Real-World+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Python+Developer;Frontend+Developer;Machine+Learning+%26+AI+Enthusiast;Open+Source+Contributor;Building+Real-World+Projects)](https://git.io/typing-svg)
 
-### 💻 Computer Science Engineering Student (2027) • AI • Machine Learning • Software Development
+### 💻 Computer Science Engineering Student (2027) • Frontend Developer • AI & Machine Learning Enthusiast
 
-Building practical software solutions with Python, Machine Learning and modern web technologies.
+Building intelligent software with Frontend Development, Python, Machine Learning, and AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/harshpreetkaur1012/)
 [![GitHub](https://img.shields.io/badge/GitHub-harshpreetkaur1012--web-black?logo=github)](https://github.com/harshpreetkaur1012-web)
@@ -20,10 +20,12 @@ Building practical software solutions with Python, Machine Learning and modern w
 # 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering (2027)
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Building Python, React and ML projects
-- 🌱 Currently learning DSA, AWS Cloud and System Design
-- 🎯 Looking for Software Development & ML Internship opportunities
+- 💻 Frontend Developer with experience in React & TypeScript
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🐍 Python Developer focused on building real-world applications
+- 🚀 Currently developing **VeriWork OS** as a Frontend Developer
+- 🌱 Continuously improving my skills in DSA, React, AWS, and System Design
+- 🎯 Seeking Software Development, Frontend Development, and AI/ML Internship opportunities
 
 ---
 
@@ -41,6 +43,11 @@ Building practical software solutions with Python, Machine Learning and modern w
 
 Python • Pandas • NumPy • Scikit-learn • Matplotlib • Tkinter
 
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,materialui" />
+</p>
 ---
 
 # 🚀 Featured Projects
@@ -49,7 +56,7 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Tkinter
 |---------|-------------|
 | 🏨 Smart Hotel Booking & Recommendation System | AI-powered recommendation engine using Content-Based Filtering, Cosine Similarity and MultiLabelBinarizer. |
 | 🛒 Retail Billing System | Python desktop billing & invoice management system. |
-| 🌐 VeriWork OS | React + TypeScript worker onboarding platform. |
+| 🌐 VeriWork OS | Modern workforce verification and onboarding platform built with React, TypeScript, Material UI, and Vite. Developed as a Frontend Developer. |
 | 🤖 AID-GRID | AI-powered emergency assistance application. |
 | 📱 AURA | Android disaster assistance application. |
 
@@ -87,13 +94,13 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Tkinter
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Current Focus
 
-- Data Structures & Algorithms
-- Machine Learning
-- React + TypeScript
-- AWS
-- Software Engineering
+- ⚛️ Frontend Development with React & TypeScript
+- 🤖 Machine Learning & AI
+- 🧩 Data Structures & Algorithms
+- ☁️ AWS Cloud
+- 💻 Full Stack Development
 
 ---
 
