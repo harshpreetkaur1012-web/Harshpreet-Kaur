@@ -62,37 +62,41 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Tkinter
 
 ---
 
-# 🏆 Achievements
-
+# 🏅 Achievements
 - 🌟 GirlScript Summer of Code 2026 — Contributor & Ambassador
+- 🎓 Unlox Academy — Campus Ambassador
 - 🥇 Hack-N-Win 3.0 — Team Leader
 - 🚀 IEEE YESIST12 Innovation Challenge — Team Member
-- ☁️ AWS Cloud Fundamentals
-
+  
 ---
 
-# 📈 GitHub Analytics
+# 🏆 Certifications & Programs
+- 🌟 GirlScript Summer of Code 2026 (Contributor & Ambassador)
+- 🏅 Hack-N-Win 3.0
+- 🚀 IEEE YESIST12 Innovation Challenge
+- 🥽 Arexa* BharatXR* SnapAR
+- 🐍 **IBM**
+  - Python 101 for Data Science
+  - Data Visualization with Python
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshpreetkaur1012-web&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpreetkaur1012-web&theme=tokyonight" />
-</p>
+- ☁️ **Amazon Web Services (AWS)**
+  - Cloud Practitioner Essentials
+  - Artificial Intelligence Practitioner Learning Plan
+  - Essentials of Prompt Engineering
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpreetkaur1012-web&layout=compact&theme=tokyonight" />
-</p>
+- 🤖 **Microsoft**
+  - Introduction to Artificial Intelligence Concepts
+  - Introduction to Machine Learning Concepts
 
+- 🍃 **MongoDB**
+  - Advanced Schema Patterns And Anti Patterns
+  - RAG With MongoDB
+  - Schema Design Optimization
+
+- 💻 **Python**
+  - Python with Artificial Intelligence (120 Hours)
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshpreetkaur1012-web&theme=tokyo-night" />
-</p>
-
-> Optional: Add a GitHub Snake animation later using GitHub Actions.
-
----
 
 # 🌱 Current Focus
 
@@ -103,6 +107,18 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Tkinter
 - 💻 Full Stack Development
 
 ---
+
+# 💼 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Frontend Development
+- Software Development
+- Full Stack Development
+- Software Development
+---
+
+
 
 # 📫 Connect With Me
 
