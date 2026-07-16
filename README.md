@@ -41,7 +41,6 @@ Building intelligent software with Frontend Development, Python, Machine Learnin
 <img src="https://skillicons.dev/icons?i=react,flask,sqlite,git,github,vscode" />
 </p>
 
-Python • Pandas • NumPy • Scikit-learn • Matplotlib • Tkinter
 
 ## Frontend
 
